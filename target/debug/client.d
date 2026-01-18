@@ -1,0 +1,1 @@
+/home/sivakumar/fileserver/target/debug/client: /home/sivakumar/fileserver/build.rs /home/sivakumar/fileserver/proto /home/sivakumar/fileserver/proto/fileserver.proto /home/sivakumar/fileserver/src/client.rs /home/sivakumar/fileserver/target/debug/build/fileserver-5fb760ce30f6a00f/out/fileserver.rs

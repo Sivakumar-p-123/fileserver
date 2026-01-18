@@ -1,0 +1,1 @@
+{"rustc":4826714390000139368,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[8009355366190484424,"build_script_build",false,4661882269970957841]],"local":[{"RerunIfChanged":{"output":"debug/build/fileserver-0796a3b1d7bc85dc/output","paths":["proto/fileserver.proto","proto"]}}],"rustflags":[],"config":0,"compile_kind":0}

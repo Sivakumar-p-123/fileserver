@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package fileserver;
+
+service FileService {
+  rpc UploadFile (FileRequest) returns (FileResponse);
+  rpc DownloadFile (FileRequest) returns (FileResponse);
+}
+
+message FileRequest {
+  string filename = 1;
+  bytes data = 2;
+}
+
+message FileResponse {
+  string message = 1;
+  bytes data = 2;
+}
