@@ -1,0 +1,8 @@
+/home/sivakumar/fileserver/target/debug/deps/server-4259036821ee54f8.d: src/server.rs /home/sivakumar/fileserver/target/debug/build/fileserver-0796a3b1d7bc85dc/out/fileserver.rs
+
+/home/sivakumar/fileserver/target/debug/deps/libserver-4259036821ee54f8.rmeta: src/server.rs /home/sivakumar/fileserver/target/debug/build/fileserver-0796a3b1d7bc85dc/out/fileserver.rs
+
+src/server.rs:
+/home/sivakumar/fileserver/target/debug/build/fileserver-0796a3b1d7bc85dc/out/fileserver.rs:
+
+# env-dep:OUT_DIR=/home/sivakumar/fileserver/target/debug/build/fileserver-0796a3b1d7bc85dc/out
